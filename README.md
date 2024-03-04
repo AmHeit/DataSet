@@ -12,7 +12,12 @@
 |2017-18| Albert A. Michelson Elementary| Male | 961| 758|
 |2017-18| Albert A. Michelson Elementary| Grades 1-3 | 871 |682|
 
-**Usage:** The dataset can be used to compare student absences in Calaveras County before and after the pandemic. This might assist in making decisions on how to help particular groups, students, or grade levels. It might point out problems in heath, childcare, or transportation.
+**Usage:** The dataset can be used to compare student absences in Calaveras County before and after the pandemic. This might assist in making decisions on how to help particular groups, students, or grade levels. It might point out problems in heath, childcare, bullying, mental health, self-identity, or transportation. It can be used to evaluate if strategies taken made a difference. It can also be used with standardized test scores to compare groups and impacts of absences on educational goals.
+
+**Limitations:** This data does not taken into account that students may have moved during this time frame, so it may not represent the exact same population of students in both years. Also, double counting may be a potential problem with several overlaping categories. 
+
+**Declaration of Competing Interests:** There are no competing interests in the creation of this dataset. 
+
 
 **Authors:** Amanda Heit
 
